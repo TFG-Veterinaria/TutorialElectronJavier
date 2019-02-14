@@ -1,0 +1,23 @@
+{
+  "name": "tutorial-electron-javier",
+  "version": "1.0.0",
+  "description": "Tutorial de instalación de Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TFG-Veterinaria/TutorialElectronJavier.git"
+  },
+  "author": "Javier Rodríguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TFG-Veterinaria/TutorialElectronJavier/issues"
+  },
+  "homepage": "https://github.com/TFG-Veterinaria/TutorialElectronJavier#readme",
+  "devDependencies": {
+    "electron": "^4.0.4"
+  }
+}
